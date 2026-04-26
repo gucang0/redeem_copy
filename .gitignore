@@ -1,0 +1,10 @@
+# PyCharm
+.idea/
+*.iml
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 部署相关（Vercel 会自动处理）
+.vercel/
